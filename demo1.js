@@ -18,14 +18,14 @@ $(function () {
             }
         },
         title: {
-            text: 'Score proportion Working Adults in 2019',
+            text: 'Score proportion Working Adults in 2015',
             style: {
                 color: Highcharts.getOptions().colors[1]
             }
         }
     }, { // Secondary yAxis
         title: {
-            text: 'Score proportion Working Adults in 2015',
+            text: 'Score proportion Working Adults in 2019',
             style: {
                 color: Highcharts.getOptions().colors[1]
             }
